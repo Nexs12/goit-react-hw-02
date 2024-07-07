@@ -1,0 +1,4 @@
+.lineitem {
+  border: 3px solid black;
+  text-transform: capitalize;
+}

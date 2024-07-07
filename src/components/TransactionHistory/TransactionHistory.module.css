@@ -1,0 +1,22 @@
+.table {
+  width: 588px;
+  border: 1px solid black;
+  text-align: center;
+  border-collapse: collapse;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+.line {
+  border: 1px solid black;
+}
+.line:nth-child(even) {
+  background-color: #bababa;
+}
+.headtittle {
+  background-color: #1c1c1c;
+  color: white;
+}
+.tittle {
+  padding: 8px;
+  border: 1px solid black;
+}
